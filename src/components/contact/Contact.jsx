@@ -10,8 +10,8 @@ const Contact = () => {
         e.preventDefault();
 
         emailjs
-        .sendForm('service_e5269ch', 'template_5drx3jk', form.current, {
-            publicKey: 'OuyTqevgKEWLJoDFX',
+        .sendForm('service_k769hdn', 'template_xzx615g', form.current, {
+            publicKey: '2nd1kGEoAi5xd_gAp',
         })
         e.target.reset();
     };
@@ -27,30 +27,30 @@ const Contact = () => {
 
                     <div className="contact__info">
                         <div className="contact__card">
-                            <i className="bx bx-mail-send contact__card-icon"></i>
+                            <i class="uil uil-linkedin contact__card-icon"></i>
 
-                            <h3 className="contact__card-title">Email</h3>
-                            <span className="contact__card-data">gonzavillalba123@gmail.com</span>
+                            <h3 className="contact__card-title">Linkedin</h3>
+                            <span className="contact__card-data">Martin Aguirre Ruiz</span>
 
-                            <a href="https://forms.gle/2VCrGyAy7VdYMcvs7" target="_blank" className="contact__button">Write me <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
+                            <a href="https://www.linkedin.com/in/martin-federico-aguirre-ruiz" target="_blank" className="contact__button">Write me <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
                         </div>
 
                         <div className="contact__card">
                             <i className="bx bxl-whatsapp contact__card-icon"></i>
 
                             <h3 className="contact__card-title">Whatsapp</h3>
-                            <span className="contact__card-data">+54 9 387-483-5750</span>
+                            <span className="contact__card-data">+54 9 387-408-2747</span>
 
-                            <a href="https://wa.me/5493874835750?text=Hola,%20quiero%20hablar%20sobre%20un%20proyecto!" target="_blank" rel="noopener noreferrer" className="contact__button">Write me <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
+                            <a href="https://wa.me/5493874082747?text=Hola,%20quiero%20hablar%20sobre%20un%20proyecto!" target="_blank" rel="noopener noreferrer" className="contact__button">Write me <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
                         </div>
 
                         <div className="contact__card">
                             <i className="bx bxl-instagram contact__card-icon"></i>
 
                             <h3 className="contact__card-title">Instagram</h3>
-                            <span className="contact__card-data">@gonza_villalba02</span>
+                            <span className="contact__card-data">@martin_aguirre16</span>
 
-                            <a href="https://www.instagram.com/gonza_villalba02/" target="_blank" className="contact__button">Write me <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
+                            <a href="https://www.instagram.com/martin_aguirre16/" target="_blank" className="contact__button">Write me <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
                         </div>
                     </div>
                 </div>

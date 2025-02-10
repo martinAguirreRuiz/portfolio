@@ -63,8 +63,8 @@ const Qualifiaction = () => {
                                 <span className="qualification__line"></span>
                             </div>
                             <div>
-                                <h3 className="qualification__title">Accounting Studies</h3>
-                                <span className="qualification__subtitle">UNSA - Salta, Argentina</span>
+                                <h3 className="qualification__title">Industrial Engineering</h3>
+                                <span className="qualification__subtitle">UTN - FRBA, Argentina</span>
                                 <div className="qualification__calender">
                                     <i className="uil uil-calendar-alt"></i> 2021 - 2022
                                 </div>
@@ -73,8 +73,8 @@ const Qualifiaction = () => {
 
                         <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">Computer Engineering</h3>
-                                <span className="qualification__subtitle">UCASAL - Salta, Argentina</span>
+                                <h3 className="qualification__title">Systems Engineering</h3>
+                                <span className="qualification__subtitle">UTN - FRBA, Argentina</span>
                                 <div className="qualification__calender">
                                     <i className="uil uil-calendar-alt"></i> 2023 – Present
                                 </div>
@@ -94,10 +94,10 @@ const Qualifiaction = () => {
                     >
                         <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">Administrative Assistant</h3>
-                                <span className="qualification__subtitle">Estudio Jurídico Armando Isasmendi - Salta, Argentina</span>
+                                <h3 className="qualification__title">Marketing Team Leader</h3>
+                                <span className="qualification__subtitle">Alto Noa Shopping - Salta, Argentina</span>
                                 <div className="qualification__calender">
-                                    <i className="uil uil-calendar-alt"></i> 2021 – 2022
+                                    <i className="uil uil-calendar-alt"></i> 2023 – 2024
                                 </div>
                             </div>
 
@@ -114,20 +114,21 @@ const Qualifiaction = () => {
                                 <span className="qualification__line"></span>
                             </div>
                             <div>
-                                <h3 className="qualification__title">Property Management</h3>
-                                <span className="qualification__subtitle">Salta, Argentina</span>
+                                <h3 className="qualification__title">Programming Instructor</h3>
+                                <span className="qualification__subtitle">355Code - Online</span>
                                 <div className="qualification__calender">
-                                    <i className="uil uil-calendar-alt"></i> 2022 – 2024
+                                    <i className="uil uil-calendar-alt"></i> 2024 - Present
                                 </div>
+                                
                             </div>
                         </div>
 
                         <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">Programming Instructor</h3>
-                                <span className="qualification__subtitle">355Code - Online</span>
+                                <h3 className="qualification__title">Freelancer</h3>
+                                <span className="qualification__subtitle">Teknova - Online</span>
                                 <div className="qualification__calender">
-                                    <i className="uil uil-calendar-alt"></i> 2024 - Present
+                                    <i className="uil uil-calendar-alt"></i> 2025 - Present
                                 </div>
                             </div>
 
