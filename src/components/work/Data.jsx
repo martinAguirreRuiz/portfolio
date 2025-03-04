@@ -1,6 +1,6 @@
 import Work1 from "../../assets/work1.jpg";
 import Work2 from "../../assets/work2.png";
-// import Work3 from "../../assets/work3.jpg";
+import Work3 from "../../assets/work3.png";
 // import Work4 from "../../assets/work4.jpg";
 // import Work5 from "../../assets/work5.jpg";
 // import Work6 from "../../assets/work6.jpg";
@@ -27,15 +27,15 @@ export const projectsData = [
         description: "Responsive Design Landing Page",
         tags: ["bxl-html5", "bxl-css3", "bxl-javascript", "bxl-react", "bxl-typescript"],
     },
-    // {
-    //     id: 6,
-    //     image: Work6,
-    //     title: "Message Encryptor (Practice)",
-    //     category: "web",
-    //     link: "https://encriptador-js.vercel.app/",
-    //     description: "Encrypt and decrypt messages.",
-    //     tags: ["bxl-html5", "bxl-css3", "bxl-javascript", "bxl-react"],
-    // },
+    {
+        id: 3,
+        image: Work3,
+        title: "AI Nutritional Assistant",
+        category: "web",
+        link: "https://youtu.be/2wsQ-gX5blI?si=Oni4fa_svNqQx54S",
+        description: "Recommendations from a food input",
+        tags: ["bxl-html5", "bxl-css3", "bxl-typescript", "bxl-react", "bxl-nodejs"],
+    },
     // {
     //     id: 4,
     //     image: Work4,
